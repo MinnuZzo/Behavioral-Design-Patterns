@@ -15,11 +15,3 @@ This repository contains implementations of the common behavioral design pattern
 9. **Strategy:** Defines a family of algorithms and makes them interchangeable.
 10. **Template Method:** Defines the skeleton of an algorithm, deferring some steps to subclasses.
 11. **Visitor:** Defines new operations on objects without changing their classes.
-
-## How to Run
-
-For each pattern, compile and run the corresponding `.java` file:
-
-```bash
-javac PatternName.java
-java PatternName
